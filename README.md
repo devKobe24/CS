@@ -1,7 +1,6 @@
 # CS Study README
 
 > 본 스터디는 출판사 "한빛미디어"의 `혼자 공부하는 컴퓨터구조 + 운영제체`를 교재로 삼았습니다.</br>
-> 본 스터디는 매주 `토요일, 일요일`에 합니다.</br>
 > 본 스터디는 본 서적을 읽고 `요약 및 정리본`을 업로드 합니다.</br>
 > 본 스터디는 `면접`을 대비 `질문`을 만들어 `질문과 답`을 업로드 합니다.</br>
 
@@ -30,6 +29,7 @@
   - [231104 컴퓨터 구조를 알아야 하는 이유 인터뷰 QnA](https://github.com/devKobe24/CS/blob/main/Kobe/231104QnA.md)
 - [231105 컴퓨터 구조의 큰 그림](https://github.com/devKobe24/CS/blob/main/Kobe/231105.md)
   - [231105 컴퓨터 구조의 큰 그림 QnA](https://github.com/devKobe24/CS/blob/main/Kobe/231105QnA.md)
+- [231112 0과 1로 숫자를 표현하는 방법](https://github.com/devKobe24/CS/blob/main/Kobe/231112.md)
 
 ## 📑 참고자료
 - [혼자서 공부하는 컴퓨터구조 + 운영체제](https://hongong.hanbit.co.kr/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/)
