@@ -26,6 +26,7 @@
 | 23.11.22(수)     | 개발자가 프로그래밍 언어로 작성한 소스 코드가 컴퓨터 내부에서 명령어가 되고 실행되는 과정을 공부하였습니다. |
 | 23.11.23(목)     | 명령어의 구조와 주소 지정 방식을 학습하여 명령어의 생김새와 작동 원리를 공부하였습니다. |
 | 23.11.25(토)     | RAM의 하드웨어적 특성과 종류에 대해 학습했습니다. |
+| 23.11.25(일)     | 물리 주소와 논리 주소의 개념과 차이, 그리고 두 주소 간의 변환 방법을 학습합니다. |
 
 ## 📖 스터디 리스트
 - [231104 컴퓨터 구조를 알아야 하는 이유](https://github.com/devKobe24/CS/blob/main/Kobe/231104.md)
@@ -36,6 +37,7 @@
 - [231122 소스 코드와 명령어](https://github.com/devKobe24/CS/blob/main/Kobe/231122.md)
 - [231123 명령어의 구조](https://github.com/devKobe24/CS/blob/main/Kobe/231123.md)
 - [231125 RAM의 특징과 종류](https://github.com/devKobe24/CS/blob/main/Kobe/231125.md)
+- [231116 메모리의 주소 공간](https://github.com/devKobe24/CS/blob/main/Kobe/231126.md)
 
 ## 📑 참고자료
 - [혼자서 공부하는 컴퓨터구조 + 운영체제](https://hongong.hanbit.co.kr/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/)
